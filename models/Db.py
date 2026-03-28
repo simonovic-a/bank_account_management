@@ -13,3 +13,4 @@ class Db:
 
     def _get_connection(self):
         return self.__connection
+
